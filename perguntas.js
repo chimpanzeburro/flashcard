@@ -1,29 +1,29 @@
 criaCartao(
-    'Brasil' ,
-    'Quem descobriu o Brasil' ,
-    'Resposta'
+    'favela' ,
+    'Quem criou a favela do falcão?' ,
+    'Douglas'
 )
 
 criaCartao(
-    'Título' ,
-    'Pergunta' ,
-    'Resposta'
+    'Orgão' ,
+    'Qual o orgão mais importante do corpo?' ,
+    'Saco de douglas'
 )
 
 criaCartao(
-    'Título' ,
-    'Pergunta' ,
-    'Resposta'
+    'Doença' ,
+    'Qual a doença mais mortal do mundo?' ,
+    'Aids'
 )
 
 criaCartao(
-    'Título' ,
-    'Pergunta' ,
-    'Resposta'
+    'Guerra' ,
+    'Quem liderou alemanha na segunda guerra mundial?' ,
+    'h'
 )
 
 criaCartao(
-    'Título' ,
+    'Titulo' ,
     'Pergunta' ,
     'Resposta'
 )
