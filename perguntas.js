@@ -1,4 +1,3 @@
-
 criaCartao(
     'Brasil' ,
     'Quem descobriu o Brasil' ,
