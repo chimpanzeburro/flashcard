@@ -1,36 +1,36 @@
+
 criaCartao(
-    'favela' ,
-    'Quem criou a favela do falcão?' ,
-    'Douglas'
+    'Brasil' ,
+    'Quem descobriu o Brasil?' ,
+    'edukof'
 )
 
 criaCartao(
-    'Orgão' ,
-    'Qual o orgão mais importante do corpo?' ,
-    'Saco de douglas'
+    'Fortuna' ,
+    'Quem é a pessoa mais rica do mundo?' ,
+    'Elon Musk'
 )
 
 criaCartao(
-    'Doença' ,
-    'Qual a doença mais mortal do mundo?' ,
-    'Aids'
+    'Rei Leão' ,
+    'Qual o animal principal do Rei Leão?' ,
+    'rei leão'
 )
 
 criaCartao(
-    'Guerra' ,
-    'Quem liderou alemanha na segunda guerra mundial?' ,
-    'h'
+    'Descoberta' ,
+    'Quem descobriu a America' ,
+    'trump'
 )
 
 criaCartao(
-    'Titulo' ,
-    'Pergunta' ,
-    'Resposta'
+    'Grota' ,
+    'Quem é dono da Grota no Rp?' ,
+    'Douglas cria'
 )
 
 criaCartao(
-    'Título' ,
-    'Pergunta' ,
-    'Resposta'
+    'Distante' ,
+    'Qual pais mais distante do Brasil' ,
+    'china'
 )
-
